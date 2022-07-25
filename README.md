@@ -1,5 +1,34 @@
-# Module 1 Challenge
-Loan data analyzer calculations in Python.
-Calculations are updated until upto Part 4 of Module 1 Challenge as of 12/23/2021 6:00 PM.
-Added csvwriter to output the list of inexpensive_loans to a CSV file as of 12/25/2021 10:45 AM.
-No coding changes. Formatting changes: adding text/headers, deleting text etc. as of 12/27/2021 11:00 AM.
+# Home Loan Assessment Automation
+
+This is a python program that automates the tasks associated with valuing microlending loans. Following tasks are performed:
+- automation of calculations
+- analysis of loan data
+- financial calculations
+- conditionally filter lists of loans
+- saving the results
+
+---
+
+## Technologies
+
+This project leverages python 3.9.7 with the following packages:
+
+---
+
+## Usage
+
+Ensure the conda dev environment is activated.
+
+Using CLI, please run the python file "app.py".
+
+---
+
+## Contributors
+
+Parag Borkar
+
+---
+
+## License
+
+PMB Inc.
